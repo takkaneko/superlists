@@ -1,4 +1,4 @@
 Django==1.7
-gunicorn==19.3.0
+gunicorn==18.0
 selenium==2.47.3
 wheel==0.24.0
